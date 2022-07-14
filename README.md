@@ -8,12 +8,11 @@ Download Tutorial:
 1: dowload last release.
 2: create folder named "French" in "C:/Program Files (x86)/Steam/steamapps/common/Software Inc/Localization".
 3: Unzip downloaded file.
-4: Put all file in "French" folder
+4: Put all file in "French" folder.
 
-
-
-
-
+#
+#
+#
 
 Francais:
 
