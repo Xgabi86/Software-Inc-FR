@@ -1,6 +1,6 @@
 # Software-Inc-FR.
 
-English:
+# English:
 
 I will post the translations of Software Inc (https://store.steampowered.com/app/362620/Software_Inc/) in the repository.
 
@@ -14,7 +14,7 @@ Download Tutorial:
 
 #
 
-Francais:
+# Francais:
 
 Je vais poster les traductions de Software Inc (https://store.steampowered.com/app/362620/Software_Inc/) dans le dépôt.
 
