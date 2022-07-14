@@ -7,9 +7,9 @@ I will post the translations of Software Inc (https://store.steampowered.com/app
 Download Tutorial:
 
 
-1: dowload last release.
+1: Dowload last release of Software-Inc-FR.
 
-2: create folder named "French" in "C:/Program Files (x86)/Steam/steamapps/common/Software Inc/Localization".
+2: Create folder named "French" in "C:/Program Files (x86)/Steam/steamapps/common/Software Inc/Localization".
 
 3: Unzip downloaded file.
 
@@ -24,9 +24,9 @@ Je vais poster les traductions de Software Inc (https://store.steampowered.com/a
 Tutoriel de téléchargement :
 
 
-1 : téléchargez la dernière version.
+1 : Téléchargez la dernière version de Software-Inc-FR.
 
-2 : créer un dossier nommé "French" dans "C:/Program Files (x86)/Steam/steamapps/common/Software Inc/Localization".
+2 : Créer un dossier nommé "French" dans "C:/Program Files (x86)/Steam/steamapps/common/Software Inc/Localization".
 
 3 : Dézipper le fichier téléchargé.
 
