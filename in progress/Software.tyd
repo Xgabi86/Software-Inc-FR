@@ -52,94 +52,94 @@ La plupart des logiciels ont besoin d'un système d'exploitation pour fonctionne
             }
         Feature
             {
-            Wirelesscommunication [ "Wireless communication"; "Can't trip over electromagnetism" ]
+            Wirelesscommunication [ "Communication sans fil" ; "On ne peut pas trébucher sur l'électromagnétisme"." ]
             }
         Feature
             {
             Removabledrive
                 [
-                "Removable drive"
-                "We put save games on memory cards and save games on hard drives"
+                "Lecteur amovible"
+                "Nous mettons les jeux de sauvegarde sur les cartes mémoire et les jeux de sauvegarde sur les disques durs."
                 ]
             }
         Feature
             {
             Standardizedinput
                 [
-                "Standardized input"
-                "You'll need a keyboard to make games on your game console"
+                "Entrée normalisée"
+                "Vous aurez besoin d'un clavier pour faire des jeux sur votre console de jeu"
                 ]
             }
         Feature
             {
             Superoptimization
                 [
-                "Super optimization"
-                "Spend time when developing software to save money when ordering hardware (Remove extra cost when ordering product prints)"
+                "Super optimisation"
+                "Consacrer du temps au développement de logiciels pour économiser de l'argent lors de la commande de matériel (supprimer les coûts supplémentaires lors de la commande d'impressions de produits)."
                 ]
             }
         Feature { Interface "Interface" }
-        Feature { Customthemes "Custom themes" }
-        Feature { Windowingsystem "Windowing system" }
-        Feature { Unifiedsearch "Unified search" }
+        Feature { Customthemes "Thèmes personnalisés" }
+        Feature { Windowingsystem "Système de fenêtrage" }
+        Feature { Unifiedsearch "Recherche unifiée" }
         Feature { Themes "Themes" }
         Feature { Widgets "Widgets" }
         Feature { Notifications "Notifications" }
-        Feature { 3Drendering "3D rendering" }
+        Feature { 3Drendering "Rendu 3D" }
         Feature { Audio "Audio" }
-        Feature { Surroundsound "Surround sound" }
-        Feature { Speechrecognition "Speech recognition" }
+        Feature { Surroundsound "Surround sound" } # ---------------------- A traduire -------------------
+        Feature { Speechrecognition "Reconnaissance vocale" }
         Feature
             {
             Microphonesurveillance
                 [
-                "Microphone surveillance"
-                "Listen in on your users' conversations to find and fix bugs before they are reported, at the risk of getting caught"
+                "Surveillance par microphone"
+                "Écoutez les conversations de vos utilisateurs pour trouver et corriger les bogues avant qu'ils ne soient signalés, au risque de se faire prendre."
                 ]
             }
         Feature
             {
             Network
                 [
-                "Network"
-                "How will anonymous people troll each other all over the world without this handy feature?"
+                "réseau"
+                "Comment les anonymes vont-ils se troller les uns les autres dans le monde entier sans cette fonctionnalité pratique ?"
                 ]
             }
         Feature
             {
             Auto-update
                 [
-                "Auto-update"
-                "Patch bugs, secure against malware and restart in the middle of an unsaved 60 page essay"
+                "Mise à jour automatique"
+                "Corrigez les bogues, protégez-vous contre les logiciels malveillants et redémarrez au milieu d'une rédaction de 60 pages non sauvegardée."
                 ]
             }
-        Feature { Appstore "App store" }
-        Feature { Cloudbackup "Cloud backup" }
-        Feature { Wireless "Wireless" }
+        Feature { Appstore "Magasin d'applications" }
+        Feature { Cloudbackup "Sauvegarde dans le cloud" }
+        Feature { Wireless "Sans fil" }
         Feature
             {
             Motiondetection
                 [
-                "Motion detection"
-                "Who doesn't want joysticks embedded in their TVs?"
+                "Détection de mouvement"
+                "Qui ne veut pas de joysticks intégrés à son téléviseur ?"
                 ]
             }
-        Feature { Built-inspeaker "Built-in speaker" }
-        Feature { RGBLighting "RGB Lighting" }
+        Feature { Built-inspeaker "Haut-parleur intégré" }
+        Feature { RGBLighting "Éclairage RVB" }
         ]
     Categories
         [
         Category
             {
-            Computer [ "Computer"; "For the table" ]
+            Computer [ "Ordinateur" ; "Pour la table" ]
             }
         Category
             {
-            Console [ "Console"; "For the TV" ]
+            Console [ "Console" ; "Pour la télévision" ]
             }
         Category
             {
-            Phone [ "Phone"; "For the pocket" ]
+            Phone [ "Téléphone" ; "Pour la poche" ]
             }
         Category { Joystick "Joystick" }
         ]
