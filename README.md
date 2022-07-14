@@ -4,7 +4,7 @@
 
 I will post the translations of Software Inc (https://store.steampowered.com/app/362620/Software_Inc/) in the repository.
 
-## Download Tutorial:
+### Download Tutorial:
 
 
 1: Dowload last release of Software-Inc-FR.
@@ -15,7 +15,7 @@ I will post the translations of Software Inc (https://store.steampowered.com/app
 
 4: Put all file in "French" folder.
 
-### You can fork this project and make pull request to contribute and help me.
+#### You can fork this project and make pull request to contribute and help me.
 
 #
 
@@ -23,7 +23,7 @@ I will post the translations of Software Inc (https://store.steampowered.com/app
 
 Je vais poster les traductions de Software Inc (https://store.steampowered.com/app/362620/Software_Inc/) dans le dépôt.
 
-## Tutoriel de téléchargement :
+### Tutoriel de téléchargement :
 
 
 1 : Téléchargez la dernière version de Software-Inc-FR.
@@ -34,4 +34,4 @@ Je vais poster les traductions de Software Inc (https://store.steampowered.com/a
 
 4 : Mettez tous les fichiers dans le dossier "French".
 
-### Vous pouvez forker ce projet et faire une pull request pour contribuer et m'aider.
+#### Vous pouvez forker ce projet et faire une pull request pour contribuer et m'aider.
