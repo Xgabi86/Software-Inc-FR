@@ -5,6 +5,8 @@
 I will post the translations of Software Inc (https://store.steampowered.com/app/362620/Software_Inc/) in the repository.
 
 Download Tutorial:
+
+
 1: dowload last release.
 
 2: create folder named "French" in "C:/Program Files (x86)/Steam/steamapps/common/Software Inc/Localization".
@@ -20,6 +22,8 @@ Download Tutorial:
 Je vais poster les traductions de Software Inc (https://store.steampowered.com/app/362620/Software_Inc/) dans le dépôt.
 
 Tutoriel de téléchargement :
+
+
 1 : téléchargez la dernière version.
 
 2 : créer un dossier nommé "French" dans "C:/Program Files (x86)/Steam/steamapps/common/Software Inc/Localization".
