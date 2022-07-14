@@ -1,54 +1,54 @@
-SoftwareCategoryDefault [ "Default"; "" ]
+SoftwareCategoryDefault [ "Par defaut"; "" ]
 
 Software
     {
     OperatingSystem
         [
-        "Operating System"
-        "The Operating System is the largest piece of software in Software Inc.
-Most software needs an Operating System to run on. When people stop buying a line of Operating Systems, they will also stop buying software for them."
+        "Système d'exploitation"
+        "Le système d'exploitation est le plus gros morceau de logiciel de Software Inc.
+La plupart des logiciels ont besoin d'un système d'exploitation pour fonctionner. Lorsque les gens cesseront d'acheter une gamme de systèmes d'exploitation, ils cesseront également d'acheter des logiciels pour eux."
         ]
     Features
         [
-        Feature { System "System" }
+        Feature { System "Systeme" }
         Feature
             {
             Multitasking
                 [
-                "Multitasking"
-                "Let your users pretend they can multitask by having several applications open at any one time"
+                "Multitache"
+                "Laissez vos utilisateurs prétendre qu'ils peuvent être multitâches en ayant plusieurs applications ouvertes en même temps."
                 ]
             }
-        Feature { Useraccounts "User accounts" }
+        Feature { Useraccounts "Comptes d'utilisateurs" }
         Feature
             {
             Name  "Plug'n'Play"
             Value
                 [
                 "Plug'n'Play"
-                "Allow the user to interact with the operating system in any number of ways"
+                "Permettre à l'utilisateur d'interagir avec le système d'exploitation de plusieurs façons."
                 ]
             }
-        Feature { Fileencryption "File encryption" }
-        Feature { Systemrecovery "System recovery" }
+        Feature { Fileencryption "Cryptage des fichiers" }
+        Feature { Systemrecovery "Récupération du système" }
         Feature
             {
-            Virtualization [ "Virtualization"; "I put an OS in your OS, etc." ]
+            Virtualization [ "Virtualisation" ; "Je mets un OS dans votre OS, etc." ]
             }
-        Feature { Codesigning "Code signing" }
-        Feature { Hardware "Hardware" }
+        Feature { Codesigning "Signature du code" }
+        Feature { Hardware "Matériel informatique" }
         Feature
             {
             Touch
                 [
-                "Touch"
-                "You can never have enough greasy finger prints on a surface"
+                "Touche"
+                "On n'a jamais assez d'empreintes grasses sur une surface."
                 ]
             }
-        Feature { Fingerprintscanner "Fingerprint scanner" }
+        Feature { Fingerprintscanner "Scanner d'empreintes digitales" }
         Feature
             {
-            Vibration [ "Vibration"; "Device go brrr" ]
+            Vibration [ "Vibration" ; "L'appareil va brrr" ]
             }
         Feature
             {
