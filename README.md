@@ -15,6 +15,8 @@ Download Tutorial:
 
 4: Put all file in "French" folder.
 
+You can fork this project and make pull request to contribute and help me.
+
 #
 
 # Francais:
@@ -31,3 +33,5 @@ Tutoriel de téléchargement :
 3 : Dézipper le fichier téléchargé.
 
 4 : Mettez tous les fichiers dans le dossier "French".
+
+Vous pouvez forker ce projet et faire une pull request pour contribuer et m'aider.
