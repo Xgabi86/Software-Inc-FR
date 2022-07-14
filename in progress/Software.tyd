@@ -145,14 +145,14 @@ La plupart des logiciels ont besoin d'un système d'exploitation pour fonctionne
         ]
     Components
         [
-        Component { Plastic "Plastic" }
-        Component { Antenna "Antenna" }
-        Component { Motherboard "Motherboard" }
-        Component { Drivebay "Drive bay" }
-        Component { Controller "Controller" }
-        Component { Case "Case" }
-        Component { Deviceinput "Device input" }
-        Component { Touchsensor "Touch sensor" }
+        Component { Plastic "Plastique" }
+        Component { Antenna "Antenne" }
+        Component { Motherboard "Carte mère" }
+        Component { Drivebay "Baie de disque" }
+        Component { Controller "Contrôleur" }
+        Component { Case "Caisse" }
+        Component { Deviceinput "Entrée du dispositif" }
+        Component { Touchsensor "Capteur tactile" }
         Component { Vibration "Vibration" }
         Component { Screen "Screen" }
         Component { Fingerprintscanner "Fingerprint scanner" }
