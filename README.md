@@ -4,7 +4,7 @@
 
 I will post the translations of Software Inc (https://store.steampowered.com/app/362620/Software_Inc/) in the repository.
 
-Download Tutorial:
+## Download Tutorial:
 
 
 1: Dowload last release of Software-Inc-FR.
@@ -23,7 +23,7 @@ Download Tutorial:
 
 Je vais poster les traductions de Software Inc (https://store.steampowered.com/app/362620/Software_Inc/) dans le dépôt.
 
-Tutoriel de téléchargement :
+## Tutoriel de téléchargement :
 
 
 1 : Téléchargez la dernière version de Software-Inc-FR.
