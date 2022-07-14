@@ -17,6 +17,9 @@ I will post the translations of Software Inc (https://store.steampowered.com/app
 
 #### You can fork this project and make pull request to contribute and help me.
 
+Hi, can you buy me a coffee to help and support me.
+###(https://www.buymeacoffee.com/xgabi86)
+
 #
 
 # Francais:
@@ -35,3 +38,6 @@ Je vais poster les traductions de Software Inc (https://store.steampowered.com/a
 4 : Mettez tous les fichiers dans le dossier "French".
 
 #### Vous pouvez forker ce projet et faire une pull request pour contribuer et m'aider.
+
+Bonjour, vous pouvez m'acheter un café pour m'aider et me soutenir.
+###(https://www.buymeacoffee.com/xgabi86)
