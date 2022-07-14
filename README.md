@@ -1,5 +1,7 @@
 # Software-Inc-FR.
+
 English:
+
 I will post the translations of Software Inc (https://store.steampowered.com/app/362620/Software_Inc/) in the repository.
 
 Download Tutorial:
@@ -8,7 +10,10 @@ Download Tutorial:
 3: Unzip downloaded file.
 4: Put all file in "French" folder
 
+
+
 Francais:
+
 Je vais poster les traductions de Software Inc (https://store.steampowered.com/app/362620/Software_Inc/) dans le dépôt.
 
 Tutoriel de téléchargement :
