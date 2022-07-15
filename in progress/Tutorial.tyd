@@ -1,165 +1,165 @@
 Tutorial
     {
-    SHARED1                 "To start developing software, designers need to piece together a design document. This document describes how the software should be developed and structured, to make sure everyone is on the same page.
+    SHARED1                 "Pour commencer à développer un logiciel, les concepteurs doivent élaborer un document de conception. Ce document décrit la manière dont le logiciel doit être développé et structuré, afin de s'assurer que tout le monde est sur la même longueur d'onde.
 	
-The design phase is split up into iterations. Each iteration increases the potential end quality and decreases the speed and amount of bugs in your project. There are 2 ways to tackle the design phase:
-	•You can finish 1 iteration and handle any issues in the development phase
-	•You can finish all iterations and have less issues in the development phase
+La phase de conception est divisée en itérations. Chaque itération augmente la qualité finale potentielle et diminue la vitesse et la quantité de bogues dans votre projet. Il y a deux façons d'aborder la phase de conception :
+	-Vous pouvez terminer une itération et traiter tous les problèmes dans la phase de développement.
+	-Vous pouvez terminer toutes les itérations et avoir moins de problèmes dans la phase de développement.
 	
-The first method is very effective, but makes it hard to estimate how long development will take, however the second method is guaranteed to extend the design phase exponentially.
+La première méthode est très efficace, mais rend difficile l'estimation de la durée du développement, alors que la seconde méthode est garantie pour prolonger la phase de conception de façon exponentielle.
 
-Press {H:continue} to advance the tutorial."
-    SHARED2                 "When doing a review you have to choose how many reviews you want. The more reviews you have, the better accuracy you get.
+Appuyez sur {H:continue} pour avancer dans le tutoriel."
+    SHARED2                 "Lorsque vous effectuez un examen, vous devez choisir le nombre d'examens que vous souhaitez. Plus le nombre d'avis est élevé, plus la précision est grande.
 			
-You also have to decide who you want to carry out the review, which affects the final price.
+Vous devez également décider qui sera chargé d'effectuer l'examen, ce qui a une incidence sur le prix final.
 
-Finally, you have to decide which parts of the software to review. If you have already gotten good scores from a past review, you can save time and money by skipping those areas for the current review.
+Enfin, vous devez décider des parties du logiciel à examiner. Si vous avez déjà obtenu de bonnes notes lors d'un examen précédent, vous pouvez économiser du temps et de l'argent en omettant ces parties pour l'examen actuel.
 
-Pres {H:OK} when you are ready to continue."
-    SHARED3                 "Reviews will pour in as time goes on. You can finish it prematurely if you want, but if you want high accuracy, you should wait until all reviews are in.
+Présentez {H:OK} lorsque vous êtes prêt à continuer."
+    SHARED3 "Les examens vont affluer au fur et à mesure que le temps passe. Vous pouvez le terminer prématurément si vous le souhaitez, mais si vous voulez une grande précision, vous devriez attendre que toutes les révisions soient faites.
 
-Note that reviews will be based on a version of the project that existed when you first clicked review, so any subsequent changes wont be accounted for.
+Notez que les révisions seront basées sur une version du projet qui existait au moment où vous avez cliqué pour la première fois sur révision, donc toute modification ultérieure ne sera pas prise en compte.
 			
-Click the {H:End} button on the review when the progress bar has filled up."
-    SHARED4                 "If the review score is unsatisfactory, you can click the iterate button to pause development and let your designers rework the design document. This will tighten up any loose ends, but also set back your project progress a bit.
+Cliquez sur le bouton {H:End} de la revue lorsque la barre de progression est remplie."
+    SHARED4 "Si le résultat de la révision n'est pas satisfaisant, vous pouvez cliquer sur le bouton itérer pour interrompre le développement et laisser vos concepteurs retravailler le document de conception. Cela permettra de resserrer tous les détails, mais aussi de retarder un peu la progression de votre projet.
 
-If you are happy with your score, just close the review window and continue development."
-    SHARED5                 "Pressing {KeyBind:MultipleSelect} on objects, rooms or employees will allow you to select several at once, you can then press {KeyBind:ContextMenu} anywhere to see the context menu. You can hold {KeyBind:SweepSelect} down to select objects of the same type quickly or press {KeyBind:NormalSelection} and drag to select everything within a rectangle.
+Si vous êtes satisfait de votre note, fermez simplement la fenêtre de révision et poursuivez le développement."
+    SHARED5 "En appuyant sur {KeyBind:MultipleSelect} sur des objets, des pièces ou des employés, vous pourrez en sélectionner plusieurs à la fois, vous pouvez ensuite appuyer sur {KeyBind:ContextMenu} n'importe où pour afficher le menu contextuel. Vous pouvez maintenir {KeyBind:SweepSelect} enfoncé pour sélectionner rapidement des objets du même type ou appuyer sur {KeyBind:NormalSelection} et faire glisser pour tout sélectionner dans un rectangle.
 
-Try selecting at least 2 things in the game."
-    SHARED6                 "Let's put some furniture in your room.
+Essayez de sélectionner au moins 2 objets dans le jeu."
+    SHARED6 "Mettons des meubles dans ta chambre.
 
-Build a new table by clicking on the {H:Furnish} button or searching for {H:table}."
-    SHARED7                 "Now add a chair. Chairs can only be added to tables.
+Construisez une nouvelle table en cliquant sur le bouton {H:Furnish} ou en recherchant {H:table}."
+    SHARED7 "Maintenant, ajoutez une chaise. Les chaises ne peuvent être ajoutées qu'aux tables.
 
-Note that some furniture, like chairs and tables, can be replaced with alternate versions after they have been placed. You can use the context menu to easily replace a lot of furniture at once, by selecting all furniture of the same type in the selected rooms for example."
-    SHARED8                 "Finally add a computer. When you add a computer click and hold where you want to add it and drag the mouse in the direction you want it to face, finally, release the mouse button to place it.
+Notez que certains meubles, comme les chaises et les tables, peuvent être remplacés par d'autres versions après avoir été placés. Vous pouvez utiliser le menu contextuel pour remplacer facilement un grand nombre de meubles en une seule fois, en sélectionnant tous les meubles du même type dans les pièces sélectionnées par exemple."
+    SHARED8 "Ajoutez enfin un ordinateur. Lorsque vous ajoutez un ordinateur, cliquez et maintenez l'endroit où vous voulez l'ajouter et faites glisser la souris dans la direction où vous voulez qu'il soit orienté, enfin, relâchez le bouton de la souris pour le placer.
 
-Computers have to sit on top of a table and face a chair."
-    SHARED9                 "When you put tables next to each other they will be grouped together if they don't have anything on top of them. Tables that are grouped together can be used for meetings. To see which tables are grouped, just select one table and its group will be highlighted in blue.
+Les ordinateurs doivent être placés sur le dessus d'une table et face à une chaise."
+    SHARED9 "Lorsque vous placez des tables les unes à côté des autres, elles sont regroupées si elles n'ont rien au-dessus d'elles. Les tables qui sont groupées peuvent être utilisées pour des réunions. Pour voir quelles tables sont regroupées, il suffit de sélectionner une table et son groupe sera surligné en bleu.
 
-It's important you control the noise levels in your working environment, try enabling the audio overlay to see what furniture is making noise."
-    SHARED10                "Your founder does not get hungry, lonely, stressed, need bathroom breaks or get annoyed in general, but when you hire new employees they will. So make sure to add at least one vending machine, a radiator, a ventilator and a separate bathroom before you hire new employees.
+Il est important de contrôler les niveaux de bruit dans votre environnement de travail, essayez d'activer la superposition audio pour voir quels meubles font du bruit."
+    SHARED10 "Votre fondateur n'a pas faim, ne se sent pas seul, n'est pas stressé, n'a pas besoin de faire des pauses toilettes ou n'est pas agacé en général, mais lorsque vous embauchez de nouveaux employés, ils le seront. Assurez-vous donc d'ajouter au moins un distributeur automatique, un radiateur, un ventilateur et une salle de bain séparée avant d'embaucher de nouveaux employés.
 
-Toggle the audio overlay to advance."
-    SHARED11                "Now, let's assign the room to a team, employees from other teams may then not use it or even pass through it.
+Basculez la superposition audio pour avancer."
+    SHARED11 "Maintenant, assignons la pièce à une équipe, les employés des autres équipes ne pourront alors pas l'utiliser ou même la traverser.
 
-Right click your new room and choose {H:Switch team}, which resembles a circle with arrows. A window will appear, click on {H:Core} to assign the room to the Core team.
+Faites un clic droit sur votre nouvelle salle et choisissez {H:Switch team}, qui ressemble à un cercle avec des flèches. Une fenêtre apparaît, cliquez sur {H:Core} pour affecter la salle à l'équipe Core.
 
-Remember to assign employees to a team as well. You can do this either by pressing {KeyBind:ContextMenu} on an employee and choosing {H:Switch team}, from the employees window or directly in the hiring window."
-    SHARED12                "Start the tutorial by pressing the {H:Develop software} button to bring up the design document."
-    SHARED13                "Continue by going to the first page of the advanced design document."
-    SHARED14                "Welcome to the design document, the heart of Software Inc. This is where you decide what kind of software you want to make.
+N'oubliez pas d'affecter les employés à une équipe également. Vous pouvez le faire soit en appuyant sur {KeyBind:ContextMenu} sur un employé et en choisissant {H:Switch team}, depuis la fenêtre des employés ou directement dans la fenêtre d'embauche."
+    SHARED12 "Commencez le tutoriel en appuyant sur le bouton {H:Develop software} pour faire apparaître le document de conception."
+    SHARED13 "Continuez en allant à la première page du document de conception avancée."
+    SHARED14 "Bienvenue dans le document de conception, le cœur de Software Inc. C'est ici que vous décidez du type de logiciel que vous voulez créer.
 
-Start by picking a software type.
+Commencez par choisir un type de logiciel.
 
-Click continue to to advance the tutorial."
-    SHARED15                "If applicable, you can pick a software category. Each category for a software type has different development times, popularity, audience retention, features and its own target audience."
-    SHARED16                "Then pick a name. You can either write one yourself or press the \"Name:\" button to have it generated."
-    SHARED17                "You can also pick a price. If you leave the price field alone, the best price will be picked based on the software and features you've chosen. You can click the Price button to reset the price."
-    SHARED18                "Let's look at the features you can pick for your product. Each feature takes time to develop and satisfies different markets.
+Cliquez sur continuer pour avancer dans le tutoriel."
+    SHARED15 "Le cas échéant, vous pouvez choisir une catégorie de logiciel. Chaque catégorie pour un type de logiciel a des temps de développement, une popularité, une rétention du public, des caractéristiques et un public cible différents."
+    SHARED16 "Choisissez ensuite un nom. Vous pouvez en écrire un vous-même ou appuyer sur le bouton "Nom:\" pour qu'il soit généré."
+    SHARED17 "Vous pouvez également choisir un prix. Si vous ne remplissez pas le champ "Prix", le meilleur prix sera sélectionné en fonction du logiciel et des fonctionnalités que vous avez choisis. Vous pouvez cliquer sur le bouton Prix pour réinitialiser le prix."
+    SHARED18 "Examinons les fonctionnalités que vous pouvez choisir pour votre produit. Chaque fonctionnalité prend du temps à développer et satisfait des marchés différents.
 
-Software is divided up into specializations, like 2D, 3D, System, etc. Each specialization is shown as a container in the feature panel and each container has a list of extra features you can add. The extra features require that your employees have the right amount of \"stars\" for the specialization they belong to.
+Les logiciels sont divisés en spécialisations, comme 2D, 3D, Système, etc. Chaque spécialisation est représentée par un conteneur dans le panneau des fonctions et chaque conteneur comporte une liste de fonctions supplémentaires que vous pouvez ajouter. Chaque spécialisation est représentée par un conteneur dans le panneau des fonctionnalités et chaque conteneur comporte une liste de fonctionnalités supplémentaires que vous pouvez ajouter.
 
-Features that are highlighted in red are unavailable because you don't have any employees in your selected development teams that have the required amount of stars."
-    SHARED19                "1 star features are simple features that help satisfy submarkets to a lesser degree
+Les fonctionnalités qui sont surlignées en rouge sont indisponibles parce que vous n'avez pas d'employés dans vos équipes de développement sélectionnées qui ont le nombre d'étoiles requis."
+    SHARED19 "Les fonctionnalités 1 étoile sont des fonctionnalités simples qui contribuent à satisfaire les sous-marchés dans une moindre mesure.
 
-2 star features are far more effective at satisfying their target audiences than 1 star features, as you'll get more value for the time spent developing them
+Les fonctionnalités 2 étoiles sont beaucoup plus efficaces pour satisfaire leurs publics cibles que les fonctionnalités 1 étoile, car vous obtiendrez plus de valeur pour le temps passé à les développer.
 
-3 star features don't satisfy your target audience, but instead modify your software in some way"
-    SHARED20                "As you may have noticed, each main feature has a tech level associated with it. Tech levels can be researched by you or other companies from year to year.
+Les fonctionnalités 3 étoiles ne satisfont pas votre public cible, mais modifient votre logiciel d'une manière ou d'une autre".
+    SHARED20 "Comme vous l'avez peut-être remarqué, chaque fonctionnalité principale est associée à un niveau technique. Les niveaux techniques peuvent être recherchés par vous ou par d'autres entreprises d'année en année.
 
-Sticking to the latest tech level will increase your target audience satisfaction and the marketability of your product, but increase development time and possible research and license costs associated with its development.
+Si vous vous en tenez au dernier niveau technologique, vous augmenterez la satisfaction de votre public cible et les possibilités de commercialisation de votre produit, mais vous augmenterez le temps de développement et les éventuels coûts de recherche et de licence associés à son développement.
 
-It's worth noting that the maximum tech level is limited by any tools needed during development."
-    SHARED21                "You can make your software a sequel to a product you made previously or which you bought from another company. You do this by clicking the {H:Original IP} button and selecting a product.
+Il convient de noter que le niveau technologique maximal est limité par les outils nécessaires au développement."
+    SHARED21 "Vous pouvez faire de votre logiciel la suite d'un produit que vous avez fabriqué précédemment ou que vous avez acheté à une autre entreprise. Pour ce faire, cliquez sur le bouton {H:Original IP} et sélectionnez un produit.
 
-Making a sequel will give a marketing boost and change your fans' expectations depending on the success of its predecessors.
+Faire une suite donnera un coup de pouce marketing et modifiera les attentes de vos fans en fonction du succès de ses prédécesseurs.
 
-Features that were implemented in the predecessor product will be highlighted in orange in the feature panel, as these features will be developed faster than normal."
-    SHARED22                "Your product can depend on other software types. As an example, you will need a 2D Editor to make a game with 2D graphics, otherwise your artists wouldn't be able to create the graphical assets needed.
+Les fonctionnalités qui ont été mises en œuvre dans le produit prédécesseur seront mises en évidence en orange dans le panneau des fonctionnalités, car ces fonctionnalités seront développées plus rapidement que d'habitude."
+    SHARED22 "Votre produit peut dépendre d'autres types de logiciels. À titre d'exemple, vous aurez besoin d'un éditeur 2D pour réaliser un jeu avec des graphiques 2D, sinon vos artistes ne seraient pas en mesure de créer les actifs graphiques nécessaires.
 			
-Furthermore, most software also needs to run on one or more operating systems. It would be wise to pick popular operating systems to support, as they will limit your audience size. But beware that each operating system you decide to support will extend development time.
+En outre, la plupart des logiciels doivent également fonctionner sur un ou plusieurs systèmes d'exploitation. Il serait sage de choisir des systèmes d'exploitation populaires à prendre en charge, car ils limiteront la taille de votre public. Mais attention, chaque système d'exploitation que vous décidez de prendre en charge allongera le temps de développement.
 
-You can port your software to other operating systems after it has been released, if you so desire.
+Vous pouvez porter votre logiciel sur d'autres systèmes d'exploitation après sa sortie, si vous le souhaitez.
 
-Move to the next page when you're ready."
-    SHARED23                "The submarket triangle let's you decide how your marketing and design efforts will be weighted, to target a section of users in the market.
+Passez à la page suivante lorsque vous êtes prêt."
+    SHARED23 "Le triangle des sous-marchés vous permet de décider comment vos efforts de marketing et de conception seront pondérés, afin de cibler une section d'utilisateurs sur le marché.
 
-You could either decide which markets you want to target and pick features that will satisfy those markets, or pick the features you want in your product and balance the markets to fit those features.
+Vous pouvez soit décider des marchés que vous voulez cibler et choisir les caractéristiques qui satisferont ces marchés, soit choisir les caractéristiques que vous voulez dans votre produit et équilibrer les marchés en fonction de ces caractéristiques.
 
-The 3 bars in the bottom will show you how well your chosen features satisfy each market and how much they require, based on how you balanced the triangle.
+Les 3 barres en bas vous montreront dans quelle mesure les caractéristiques que vous avez choisies satisfont chaque marché et combien ils exigent, en fonction de la façon dont vous avez équilibré le triangle.
 
-Only 1 page left to go!"
-    SHARED24                "If you're worried about how to pay your developers, how many physical copies you'll have to order or how much effort to put into your marketing campaign, you can sign up with a publisher and they will handle these details, if you agree to pay royalties off your product's profits."
-    SHARED25                "Before you finish, make sure you inspect the information in this box. This outlines everything you need to develop this product.
+Plus qu'une page à parcourir !"
+    SHARED24 "Si vous vous inquiétez de savoir comment payer vos développeurs, combien de copies physiques vous devrez commander ou quels efforts vous devrez déployer pour votre campagne de marketing, vous pouvez vous inscrire auprès d'un éditeur et il s'occupera de ces détails, si vous acceptez de payer des redevances sur les bénéfices de votre produit."
+    SHARED25 "Avant de terminer, assurez-vous d'inspecter les informations contenues dans cette boîte. Cela décrit tout ce dont vous avez besoin pour développer ce produit.
 			
-Take special note of the {H:Expected interest} percent, as adding more features after it hits 100% will only increase development time and not your sales.
+Prenez particulièrement note du pourcentage {H:Expected interest}, car ajouter des fonctionnalités après qu'il ait atteint 100% ne fera qu'augmenter le temps de développement et non vos ventes.
 
-Having more than the suggested amount of employees on the development teams will result in diminishing returns, so you're paying more in salaries, but getting a smaller and smaller speed increase in return."
-    SHARED26                "After you've went through the phases of development and you're ready to release your product, remember to see if any popular products have just been released in the same software category as yours.
+Le fait d'avoir plus que le nombre d'employés suggéré dans les équipes de développement entraînera des rendements décroissants, vous payez donc plus de salaires, mais obtenez une augmentation de vitesse de plus en plus faible en retour."
+    SHARED26 "Une fois que vous avez passé les phases de développement et que vous êtes prêt à lancer votre produit, pensez à voir si des produits populaires viennent d'être lancés dans la même catégorie de logiciels que le vôtre.
 
-You can also check out the {H:Event calendar} to avoid upcoming releases from your competitors and make sure a large company won't outshine your product.
+Vous pouvez également consulter le {H:Event calendar} pour éviter les sorties imminentes de vos concurrents et vous assurer qu'une grande entreprise ne va pas éclipser votre produit.
 
-Timing is everything when you're just starting out!"
-    SHARED27                "To transport boxes around your building you need {H:conveyor belts}.
+Le timing est primordial lorsque vous débutez !"
+    SHARED27 "Pour transporter des boîtes dans votre bâtiment, vous avez besoin de {H:Conveyor belts}.
 
-{H:Conveyor belts} allow you to route boxes through walls and onto pallets or directly to the outside for couriers to pick up, by placing {H:Garage ports}.
+Les {H:Conveyor belts} vous permettent d'acheminer les boîtes à travers les murs et sur des palettes ou directement à l'extérieur pour que les coursiers les ramassent, en plaçant des {H:Garage ports}.
 
-You can direct boxes from different places to the same destination by placing conveyor belts perpendicular to each other. Or you can split boxes in different directions by placing {H:Conveyor Splitters}. Make sure you leave room on your conveyor belts for boxes to pass, as machines won't be able to push out boxes if the conveyor belt in front of them is blocked."
-    SHARED28                "{H:Pallets} can be used as storage, to avoid a box pileup, or as a pickup point for {H:couriers}.
+Vous pouvez diriger des boîtes de différents endroits vers la même destination en plaçant des bandes transporteuses perpendiculaires les unes aux autres. Ou vous pouvez diviser les boîtes dans différentes directions en plaçant des {H:Séparateurs de convoyeur}. Assurez-vous de laisser de la place sur vos bandes transporteuses pour que les boîtes puissent passer, car les machines ne pourront pas pousser les boîtes si la bande transporteuse devant elles est bloquée."
+    SHARED28                "{H:Pallets} peuvent être utilisées comme stockage, pour éviter un empilement de boîtes, ou comme point de ramassage pour les {H:couriers}.
 
-Place {H:drop points} on {H:conveyor belts} adjacent to {H:pallets} to drop boxes off when the conveyor belts are obstructed and place {H:pickup points} to move boxes from pallets to a conveyor belt when the path is clear.
+Placez des {H:drop points} sur les {H:conveyor belts} adjacentes aux {H:Pallets} pour déposer les boîtes lorsque les bandes transporteuses sont obstruées et placez des {H:pickup points} pour déplacer les boîtes des palettes vers une bande transporteuse lorsque le chemin est libre.
 		
-Exit {H:build mode} when you are ready."
-    SHARED29                "In the staff window you can either hire {H:couriers} to come once every day and pick up boxes or call a courier to pick up as many boxes as possible immediately. Calling couriers is a lot more expensive and should be reserved for emergencies.
+Quittez {H:build mode} lorsque vous êtes prêt."
+    SHARED29                "Dans la fenêtre du personnel, vous pouvez soit engager des {H:couriers} pour qu'ils viennent une fois par jour récupérer les boîtes, soit appeler un coursier pour qu'il récupère immédiatement autant de boîtes que possible. Appeler des coursiers est beaucoup plus coûteux et devrait être réservé aux urgences.
 		
-When you are ready, open the {H:distribution window} to see how you can run your own digital distribution store."
-    SHARED30                "You'll also need to pick a lead designer to come up with ideas for your project. The game will already have chosen the most suitable employee, based on the assigned design teams."
-    ADDONS1                 "You can develop new add-ons at any time by opening {H:Your releases} window and selecting a product with add-ons available or by opening the detail window for a product and clicking one of its add-on tabs.
+Lorsque vous êtes prêt, ouvrez la fenêtre {H:distribution window} pour voir comment vous pouvez gérer votre propre magasin de distribution numérique."
+    SHARED30                "Vous devrez également choisir un concepteur principal pour trouver des idées pour votre projet. Le jeu aura déjà choisi l'employé le plus approprié, sur la base des équipes de conception assignées."
+    ADDONS1                 "Vous pouvez développer de nouveaux add-ons à tout moment en ouvrant la fenêtre {H:Your releases} et en sélectionnant un produit avec des add-ons disponibles ou en ouvrant la fenêtre de détail d'un produit et en cliquant sur l'un de ses onglets add-on.
 
-Try starting development of an add-on now to continue the tutorial."
-    ADDONS2                 "An {H:Add-on} is a product you can develop to be sold as an extension of an existing product.
+Essayez de commencer le développement d'un add-on maintenant pour continuer le tutoriel."
+    ADDONS2                 "Un {H:Add-on} est un produit que vous pouvez développer pour être vendu comme une extension d'un produit existant.
 
-Click {H:Continue} to have a look at the features you can pick for an add-on."
-    ADDONS3                 "Features for add-ons work like features for regular products, but some have the option of increasing their potential.
+Cliquez sur {H:Continue} pour voir les caractéristiques que vous pouvez choisir pour un add-on."
+    ADDONS3                 "Les fonctionnalités des modules complémentaires fonctionnent comme les fonctionnalités des produits ordinaires, mais certains ont la possibilité d'augmenter leur potentiel.
 
-The features you can add will depend on the parent product category and features. Features should be selected in such a way that they appeal to the same target market as the product they are made for.
+Les fonctionnalités que vous pouvez ajouter dépendent de la catégorie et des caractéristiques du produit parent. Les fonctionnalités doivent être sélectionnées de manière à attirer le même marché cible que le produit pour lequel elles sont conçues.
 
-You can find add-ons for other products by looking for products in the product window that have a non-zero balance in the {H:Add-on profit} column.
+Vous pouvez trouver des modules complémentaires pour d'autres produits en recherchant dans la fenêtre des produits les produits dont le solde de la colonne {H:Add-on profit} est différent de zéro.
 
-Try and see if you can find such a product now."
-    ADDONS4                 "Now click the relevant add-on tab and open the details of an add-on to see its details."
-    ADDONS5                 "Developing add-ons can be a good way to gain some extra income from popular products or bringing back old customers for subscription-based products.
+Essayez de voir si vous pouvez trouver un tel produit maintenant."
+    ADDONS4                 "Cliquez maintenant sur l'onglet du module complémentaire concerné et ouvrez les détails d'un module complémentaire pour voir ses détails."
+    ADDONS5                 "Le développement d'add-ons peut être un bon moyen d'obtenir des revenus supplémentaires pour des produits populaires ou de faire revenir d'anciens clients pour des produits par abonnement.
 
-Add-ons made for hardware are peripherals, and some can be mandatory for development of the main product and some can even be sold several times to the same customer, such as joysticks for consoles."
-    ADVANCEDDESIGNDOCUMENT3 "The first page of the advanced design document resembles the simple design document, but with an added {H:Framework} panel.
+Les add-ons réalisés pour le matériel sont des périphériques, et certains peuvent être obligatoires pour le développement du produit principal et certains peuvent même être vendus plusieurs fois au même client, comme les joysticks pour les consoles."
+    ADVANCEDDESIGNDOCUMENT3 "La première page du document de conception avancée ressemble au document de conception simple, mais avec un panneau {H:Framework} supplémentaire.
 
-You can use or create a framework when developing software. Frameworks speed up development, but lock down the maximum tech levels of your features.
+Vous pouvez utiliser ou créer un framework lorsque vous développez un logiciel. Les frameworks accélèrent le développement, mais verrouillent les niveaux techniques maximums de vos fonctionnalités.
 
-Using a framework made by another company will require you pay a license fee from your profits.
+L'utilisation d'un framework créé par une autre société vous obligera à payer des frais de licence sur vos bénéfices.
 
-If you decide to create a new framework, it will extend development slightly, but the new framework can be licensed out to other companies to make some extra money on the side."
-    ADVANCEDDESIGNDOCUMENT4 "The advanced design document has multiple pages. Let's move on to page 2 to continue."
-    ADVANCEDDESIGNDOCUMENT7 "This is the summary page. Here you can look over the final details of your project, decide on which design and development teams to use, and whether you want a {H:Publisher}. Publishers will help fund your project, handle marketing and physical distribution for a cut of your profits.
+Si vous décidez de créer un nouveau framework, le développement s'en trouvera légèrement accéléré, mais le nouveau framework peut être cédé sous licence à d'autres entreprises pour gagner un peu d'argent en plus."
+    ADVANCEDDESIGNDOCUMENT4 "Le document de conception avancée comporte plusieurs pages. Passons à la page 2 pour continuer."
+    ADVANCEDDESIGNDOCUMENT7 "Il s'agit de la page de résumé. Vous pouvez y examiner les derniers détails de votre projet, décider des équipes de conception et de développement à utiliser et décider si vous voulez un {H:Editeur}. Les éditeurs vous aideront à financer votre projet, à gérer le marketing et la distribution physique en échange d'une partie de vos bénéfices.
 
-Click the develop button when you're ready to begin development."
-    ALPHAWORK1              "You need to reach the implementation phase of development before the tutorial can continue"
-    ALPHAWORK2              "Your project has now been promoted to implementation.
+Cliquez sur le bouton de développement lorsque vous êtes prêt à commencer le développement."
+    ALPHAWORK1              "Vous devez atteindre la phase de mise en œuvre du développement avant que le tutoriel ne puisse se poursuivre."
+    ALPHAWORK2              "Votre projet a maintenant été promu à la mise en œuvre.
 
-The implementation phase has two stages:
-	•{H:Alpha}: in which developers and artists create the product according to the design specifications and requirements.
-	•{H:Beta}: in which bugs are uncovered by your programmers and hopefully fixed before the final release."
-    ALPHAWORK3              "You will see the progress bar fill as your employees work on the project and you can hover over the task to get a detailed breakdown of progress on each area of the implementation.
+La phase de mise en œuvre comporte deux étapes :
+	-{H:Alpha} : au cours de laquelle les développeurs et les artistes créent le produit conformément aux spécifications et aux exigences de la conception.
+	-{H:Beta} : au cours de laquelle des bogues sont découverts par vos programmeurs et, si possible, corrigés avant la version finale."
+    ALPHAWORK3              "Vous verrez la barre de progression se remplir au fur et à mesure que vos employés travaillent sur le projet et vous pouvez survoler la tâche pour obtenir une ventilation détaillée de l'avancement de chaque domaine de la mise en œuvre.
 		
-Progress tells nothing of the actual quality of the project, however. To get an idea of how good your employees' work is, you need to do a peer review. Start by pressing the review button."
-    ALPHAWORK7              "Make sure you do a press release during the implementation phase, as you hopefully did during the design phase, unless you signed with a publisher.
+La progression ne dit cependant rien de la qualité réelle du projet. Pour vous faire une idée de la qualité du travail de vos employés, vous devez procéder à une évaluation par les pairs. Commencez par appuyer sur le bouton de révision."
+    ALPHAWORK7              "Assurez-vous de faire un communiqué de presse pendant la phase de mise en œuvre, comme vous l'avez fait, si tout va bien, pendant la phase de conception, à moins que vous n'ayez signé avec un éditeur.
 
-During the implementation phase you also have the option to send out a press build, so the press can try your software. Press builds require no work on your part, but make sure you have good ratings in your peer reviews and some followers before you send one out.
+Pendant la phase de mise en œuvre, vous avez également la possibilité d'envoyer une version de presse, afin que la presse puisse essayer votre logiciel. Les builds de presse ne requièrent aucun travail de votre part, mais assurez-vous d'avoir de bonnes notes dans vos évaluations par les pairs et quelques adeptes avant d'en envoyer un.
 
-The tutorial will continue once you send out a press build. Take all the time you need."
-    ALPHAWORK8              "Press the Promote button to move on to the beta phase when you are ready."
-    ALPHAWORK9              "The beta phase is theoretically endless, but you'll have to release your project at some point, especially if you've already announced a release date.
+Le tutoriel se poursuivra une fois que vous aurez envoyé un build presse. Prenez tout le temps dont vous avez besoin."
+    ALPHAWORK8              "Appuyez sur le bouton Promouvoir pour passer à la phase bêta lorsque vous êtes prêt."
+    ALPHAWORK9              "La phase bêta est théoriquement sans fin, mais il faudra bien sortir votre projet à un moment ou à un autre, surtout si vous avez déjà annoncé une date de sortie..
 
 It's a good idea to fix as many bugs as possible, as buggy products will lead to refunds, but don't aim to fix every possible bug in your product. When your product is released you'll be able to fix more bugs, as your customers get in contact with your support team.
 
